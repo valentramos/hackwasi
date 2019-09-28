@@ -223,11 +223,11 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 .header.fancy .mega-menu .menu-logo { padding: 26px 0px; }
 .header.fancy .menu { position: absolute; width: 100%; top: 30px; }
 .header.fancy .topbar + .menu {  top: 60px; }
-.header.fancy .mega-menu > section.menu-list-items { background: #ffffff; padding: 0px 25px; box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1); }
+.header.fancy .mega-menu > section.menu-list-items { background: #000000; padding: 0px 25px; box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1); }
 .header.fancy .mega-menu.desktopTopFixed > section.menu-list-items { border-bottom: 1px solid #f6f6f6; }
 .header.fancy .topbar ul li a:hover { color: #323232;}
 
-.header.fancy .mega-menu .menu-links > li > a { color: #323232; line-height: 20px; }
+.header.fancy .mega-menu .menu-links > li > a { color: #ffffff; line-height: 20px; }
 .header.fancy .mega-menu .menu-links > li > a:hover { color: #84ba3f; }
 .header.fancy .mega-menu .menu-links > li.active > a { color: #84ba3f; }
 .header.fancy .mega-menu.desktopTopFixed .menu-links > li > a { color: #ffffff; }
